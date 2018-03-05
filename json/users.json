@@ -1,0 +1,16 @@
+[
+    {
+        "id" : "1",
+        "login" : "johndoe",
+        "name" : "John Doe",
+        "mail" : "john@doe.com",
+        "pass" : "john@doe"
+    },
+    {
+        "id" : "2",
+        "login" : "janes",
+        "name" : "Jane Smith",
+        "mail" : "jane@smith.com",
+        "pass" : ".l//e@tù‰Zw&_#o0d12"
+    }
+]

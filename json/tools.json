@@ -1,0 +1,65 @@
+[
+    {
+        "title" : "PHP.Net",
+        "link" : "http://php.net",
+        "authorization" : false,
+        "field" : ["Backend"],
+        "Language" : ["PHP"]
+    },
+    {
+        "title" : "Alsacréations",
+        "link" : "https://www.alsacreations.com",
+        "authorization" : false,
+        "field" : ["Backend", "Frontend"],
+        "Language" : ["PHP","HTML","CSS","Javascript"]
+    },
+    {
+        "title" : "Codepen",
+        "link" : "https://codepen.io",
+        "authorization" : true,
+        "field" : ["Backend", "Frontend"],
+        "Language" : ["PHP","HTML","CSS","Javascript"]
+    },
+    {
+        "title" : "Stéphanie Walter",
+        "link" : "https://www.stephaniewalter.fr",
+        "authorization" : false,
+        "field" : ["Frontend"],
+        "Language" : ["HTML","CSS","Javascript"]
+    },
+    {
+        "title" : "Graphikart",
+        "link" : "www.grafikart.fr",
+        "authorization" : false,
+        "field" : ["Backend", "Frontend"],
+        "Language" : ["PHP","HTML","CSS","Javascript"]
+    },
+    {
+        "title" : "Code Wars",
+        "link" : "https://www.codewars.com",
+        "authorization" : true,
+        "field" : ["Backend", "Frontend"],
+        "Language" : ["PHP","Javascript"]
+    },
+    {
+        "title" : "Openclassrooms",
+        "link" : "https://openclassrooms.com",
+        "authorization" : false,
+        "field" : ["Backend", "Frontend"],
+        "Language" : ["PHP","HTML","CSS","Javascript"]
+    },
+    {
+        "title" : "FreeCodeCamp",
+        "link" : "http://freecodecamp.org",
+        "authorization" : true,
+        "field" : ["Backend", "Frontend"],
+        "Language" : ["PHP","HTML","CSS","Javascript"]
+    },
+    {
+        "title" : "Les joies du code",
+        "link" : "http://lesjoiesducode.fr",
+        "authorization" : true,
+        "field" : ["Backend", "Frontend"],
+        "Language" : ["PHP","HTML","CSS","Javascript"]
+    }
+]
