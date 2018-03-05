@@ -1,7 +1,7 @@
 # La toolbox
 
 ## Demande
-Créer une liste de lien à partir d'un objet JSON
+Créer une liste de liens à partir d'un objet JSON
 
 ## Niveaux
 * 1 : Créer la liste à partir de l'objet JSON tools.json, seul les fichiers accessible à tous doivent être affichés
